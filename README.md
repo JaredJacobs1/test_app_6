@@ -1,4 +1,4 @@
-# README: Learning to program with RoR. Yay!
+# README: 1st test of Git update on "Learning to program with RoR. Yay!"
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
